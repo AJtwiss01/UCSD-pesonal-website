@@ -22,6 +22,8 @@ h2 {
 .my-title {
   font-weight: normal;
 }
+
+/* cloud heaeder  */
 .wrap {
   height: 700px;
   margin: auto;
@@ -282,4 +284,17 @@ h2 {
     -webkit-transform: translateX(-200%);
     transform: translateX(-200%);
   }
+}
+
+/* skill section */
+.skill-row {
+  width: 50%;
+  margin: 0 auto;
+}
+.skill-row img {
+  margin: 0 auto;
+}
+.skill-row p {
+  text-align: left;
+  line-height: 2;
 }
